@@ -11,9 +11,5 @@ Built using Python modules like tkinter.
 
 This is a Python calculator project.
 
-\## Project Update
 
-
-
-This project is a simple Python calculator.
 
