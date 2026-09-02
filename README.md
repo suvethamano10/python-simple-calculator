@@ -11,3 +11,9 @@ Built using Python modules like tkinter.
 
 This project was updated using the GitHub fork and pull request workflow.
 
+\## Project Update
+
+
+
+This project is a simple Python calculator.
+
