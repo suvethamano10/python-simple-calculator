@@ -5,9 +5,9 @@ Built using Python modules like tkinter.
 
 **Maintainer in charge**: Nishtha https://github.com/nishtha981
 
-\## New Feature
+\## Project Update
 
 
 
-This project was updated using the GitHub fork and pull request workflow.
+This is a Python calculator project.
 
